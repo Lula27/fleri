@@ -1,0 +1,1386 @@
+{
+    "Maximum Outpatient Coverage ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Maximum Outpatient Coverage ",
+        "Essential": "GHC 1800",
+        "Executive": "GHC 3000",
+        "Premier": "GHC 4000",
+        "PremierPlus": "GHC 5000"
+    },
+    "Maximum Inpatient Coverage ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Maximum Inpatient Coverage ",
+        "Essential": "GHC 10000",
+        "Executive": "GHC 15000",
+        "Premier": "GHC 20000",
+        "PremierPlus": "GHC 25000"
+    },
+    "INDIVIDUAL BENEFITS ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "INDIVIDUAL BENEFITS ",
+        "Essential": "INDIVIDUAL BENEFITS ",
+        "Executive": "INDIVIDUAL BENEFITS ",
+        "Premier": "INDIVIDUAL BENEFITS ",
+        "PremierPlus": "INDIVIDUAL BENEFITS "
+    },
+    "Specialist Consultation": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "PHYSIOTHERAPY",
+        "HealthcarePlan": "Specialist Consultation",
+        "Essential": "Covered; Up to 5 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "Executive": "Covered; Up to 6 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "Premier": "Covered; Up to 8 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "PremierPlus": "Covered; Up to 8 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions"
+    },
+    "Routine dental examination": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Routine dental examination",
+        "Essential": "Covered Up to GHC 300 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Executive": "Covered Up to GHC 400 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Premier": "Covered Up to GHC 600 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "PremierPlus": "Covered Up to GHC 700 Within Outpatient Limits in a Policy Year Subject to Preapproval "
+    },
+    "Preventive dental care and counselling": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Preventive dental care and counselling",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Dental pain therapy": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Dental pain therapy",
+        "Essential": "Covered Up to GHC 300 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Executive": "Covered Up to GHC 400 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Premier": "Covered Up to GHC 600 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "PremierPlus": "Covered Up to GHC 700 Within Outpatient Limits in a Policy Year Subject to Preapproval "
+    },
+    "X-Ray ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "X-Ray ",
+        "Essential": "Covered Up to GHC 300 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Executive": "Covered Up to GHC 400 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Premier": "Covered Up to GHC 600 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "PremierPlus": "Covered Up to GHC 700 Within Outpatient Limits in a Policy Year Subject to Preapproval "
+    },
+    "Root Canal": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Root Canal",
+        "Essential": "Covered Up to GHC 300 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Executive": "Covered Up to GHC 400 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Premier": "Covered Up to GHC 600 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "PremierPlus": "Covered Up to GHC 700 Within Outpatient Limits in a Policy Year Subject to Preapproval "
+    },
+    "Pharmacological treatment of acute and chronic dental infections": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Pharmacological treatment of acute and chronic dental infections",
+        "Essential": "Covered Up to GHC 300 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Executive": "Covered Up to GHC 400 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Premier": "Covered Up to GHC 600 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "PremierPlus": "Covered Up to GHC 700 Within Outpatient Limits in a Policy Year Subject to Preapproval "
+    },
+    "Access to prescribed drugs": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Access to prescribed drugs",
+        "Essential": "Covered",
+        "Executive": "Covered",
+        "Premier": "Covered",
+        "PremierPlus": "Covered"
+    },
+    "Scaling/Polishing": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Scaling/Polishing",
+        "Essential": "Covered Up to GHC 300 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Executive": "Covered Up to GHC 400 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Premier": "Covered Up to GHC 600 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "PremierPlus": "Covered Up to GHC 700 Within Outpatient Limits in a Policy Year Subject to Preapproval "
+    },
+    "Extractions ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Extractions ",
+        "Essential": "Covered Up to GHC 300 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Executive": "Covered Up to GHC 400 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Premier": "Covered Up to GHC 600 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "PremierPlus": "Covered Up to GHC 700 Within Outpatient Limits in a Policy Year Subject to Preapproval "
+    },
+    "Periodontal treatment ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Periodontal treatment ",
+        "Essential": "Covered Up to GHC 300 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Executive": "Covered Up to GHC 400 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Premier": "Covered Up to GHC 600 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "PremierPlus": "Covered Up to GHC 700 Within Outpatient Limits in a Policy Year Subject to Preapproval "
+    },
+    "Filling": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Filling",
+        "Essential": "Covered Up to GHC 300 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Executive": "Covered Up to GHC 400 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "Premier": "Covered Up to GHC 600 Within Outpatient Limits in a Policy Year Subject to Preapproval ",
+        "PremierPlus": "Covered Up to GHC 700 Within Outpatient Limits in a Policy Year Subject to Preapproval "
+    },
+    "Routine ocular examinations": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Routine ocular examinations",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Pharmacological treatment of acute and chronic ocular infections": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Pharmacological treatment of acute and chronic ocular infections",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Lenses and Frames ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Lenses and Frames ",
+        "Essential": "Covered up to GHC 100 Within Outpatient Limits ",
+        "Executive": "Covered up to GHC 200 Within Outpatient Limits ",
+        "Premier": "Covered up to GHC 400 Within Outpatient Limits ",
+        "PremierPlus": "Covered up to GHC 900 Within Outpatient Limits "
+    },
+    "Eye Surgery ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Eye Surgery ",
+        "Essential": "Covered up to GHC 300 Within Outpatient Limits ",
+        "Executive": "Covered up to GHC 600 Within Outpatient Limits ",
+        "Premier": "Covered up to GHC 900 Within Outpatient Limits ",
+        "PremierPlus": "Covered up to GHC 1000 Within Outpatient Limits "
+    },
+    "General Practitioner Consultation ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Medical Consultation - General & Specialist ",
+        "HealthcarePlan": "General Practitioner Consultation ",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "[SPECIALIST] Obstetrics & Gynecology Specialist": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "[SPECIALIST] Obstetrics & Gynecology Specialist",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "[SPECIALIST] Pediatrician": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "[SPECIALIST] Pediatrician",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "General Surgeon": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "General Surgeon",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Cardiothoracic Surgeon": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Cardiothoracic Surgeon",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Neurosurgeon": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Neurosurgeon",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Cardiologist": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Cardiologist",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "ENT Surgeon": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "ENT Surgeon",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Urologist": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Urologist",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Orthopedic Surgeon": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Orthopedic Surgeon",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Gastroenterologist": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Gastroenterologist",
+        "Essential": "Not Covered ",
+        "Executive": "Not Covered ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Psychiatrist": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Psychiatrist",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Neonatologist": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Neonatologist",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Chest X-Rays": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Diagnostic Investigation",
+        "HealthcarePlan": "Chest X-Rays",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Plain Abdominal X-Rays": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Plain Abdominal X-Rays",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Limbs X-Rays": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Limbs X-Rays",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Neck X-Rays": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Neck X-Rays",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Skull X-Rays": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Skull X-Rays",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Lumbosacral X-Rays": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Lumbosacral X-Rays",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "X-Rays of Body Joints": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "X-Rays of Body Joints",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Ultrasound Scan": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Ultrasound Scan",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Hematological tests": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Hematological tests",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Hemoglobin": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Hemoglobin",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Packed Cell Volume": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Packed Cell Volume",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "White cell differential count": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "White cell differential count",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Full Blood Count and differentials": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Full Blood Count and differentials",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "White Blood Cell count": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "White Blood Cell count",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Red Blood Cell count": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Red Blood Cell count",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Endoscopy": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Endoscopy",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "CT Scan": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "CT Scan",
+        "Essential": "Up To 1 Covered Image for Each Plan",
+        "Executive": "Up To 2 Covered Image for Each Plan",
+        "Premier": "Up To 3 Covered Image for Each Plan",
+        "PremierPlus": "Up To 3 Covered Image for Each Plan"
+    },
+    "EEG": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "EEG",
+        "Essential": "Up To 1 Covered Image for Each Plan",
+        "Executive": "Up To 2 Covered Image for Each Plan",
+        "Premier": "Up To 3 Covered Image for Each Plan",
+        "PremierPlus": "Up To 3 Covered Image for Each Plan"
+    },
+    "Echograpy": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Echograpy",
+        "Essential": "Up To 1 Covered Image for Each Plan",
+        "Executive": "Up To 2 Covered Image for Each Plan",
+        "Premier": "Up To 3 Covered Image for Each Plan",
+        "PremierPlus": "Up To 3 Covered Image for Each Plan"
+    },
+    "PET Scan": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "PET Scan",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "MRI": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "MRI",
+        "Essential": "Up To 1 Covered Image for Each Plan",
+        "Executive": "Up To 2 Covered Image for Each Plan",
+        "Premier": "Up To 3 Covered Image for Each Plan",
+        "PremierPlus": "Up To 3 Covered Image for Each Plan"
+    },
+    "ECG": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "ECG",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Diagnostic Tests ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Diagnostic Tests ",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Basic Lab Investigation": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Laboratory / Pathology Test ",
+        "HealthcarePlan": "Basic Lab Investigation",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Advanced Lab Investigation ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Advanced Lab Investigation ",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "24-Hour Emergency Evacuation  Of An Insured Person With Full Medical Cover For In- Hospital Treatment To The Nearest Appropriate Facility. Extended To Cover The Costs Of One Other Person To Travel As An Escort.": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Accident & Emergency Care",
+        "HealthcarePlan": "24-Hour Emergency Evacuation  Of An Insured Person With Full Medical Cover For In- Hospital Treatment To The Nearest Appropriate Facility. Extended To Cover The Costs Of One Other Person To Travel As An Escort.",
+        "Essential": "Not Covered ",
+        "Executive": "Not Covered ",
+        "Premier": "Not Covered ",
+        "PremierPlus": "Not Covered "
+    },
+    "Return Of The Policy Holder And 3rd Party Who Has Travelled With Patient By Commercial Airline To The Country Of Residence Or To The Country Where The Evacuation Occurred.": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Return Of The Policy Holder And 3rd Party Who Has Travelled With Patient By Commercial Airline To The Country Of Residence Or To The Country Where The Evacuation Occurred.",
+        "Essential": "Not Covered ",
+        "Executive": "Not Covered ",
+        "Premier": "Not Covered ",
+        "PremierPlus": "Not Covered "
+    },
+    "Resuscitative Care For Accident And Emergency Cases, Including Basic Radiological And Laboratory Investigations Needed To Stabilize Patient Before Being Moved To The ICU If Need Be.": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Resuscitative Care For Accident And Emergency Cases, Including Basic Radiological And Laboratory Investigations Needed To Stabilize Patient Before Being Moved To The ICU If Need Be.",
+        "Essential": "Covered Within Inpatient Limits ",
+        "Executive": "Covered Within Inpatient Limits ",
+        "Premier": "Covered Within Inpatient Limits ",
+        "PremierPlus": "Covered Within Inpatient Limits "
+    },
+    "Air Ambulance ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Air Ambulance ",
+        "Essential": "Not Covered ",
+        "Executive": "Not Covered ",
+        "Premier": "Not Covered ",
+        "PremierPlus": "Not Covered "
+    },
+    "Road Ambulance ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Road Ambulance ",
+        "Essential": "Not Covered ",
+        "Executive": "Not Covered ",
+        "Premier": "Not Covered ",
+        "PremierPlus": "Not Covered "
+    },
+    "Air Travel and Return to Country of Residence ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Air Travel and Return to Country of Residence ",
+        "Essential": "Not Covered ",
+        "Executive": "Not Covered ",
+        "Premier": "Not Covered ",
+        "PremierPlus": "Not Covered "
+    },
+    "PRESCRIBED MEDICINES": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "PHARMA & CONSUMABLES",
+        "HealthcarePlan": "PRESCRIBED MEDICINES",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Chronic Medications": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Chronic Medications",
+        "Essential": "Covered Up to GHC 300 Within Outpatient Limits ",
+        "Executive": "Covered Up to GHC 400 Within Outpatient Limits ",
+        "Premier": "Covered Up to GHC 600 Within Outpatient Limits ",
+        "PremierPlus": "Covered Up to GHC 800 Within Outpatient Limits "
+    },
+    "Prescribed medication [In-Hospital]/Acute Drugs": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Prescribed medication [In-Hospital]/Acute Drugs",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Prescribed medication [To-take Home]": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Prescribed medication [To-take Home]",
+        "Essential": "Prescribed Medications after Admission; Covered Within Inpatient Limits",
+        "Executive": "Prescribed Medications after Admission; Covered Within Inpatient Limits",
+        "Premier": "Prescribed Medications after Admission; Covered Within Inpatient Limits",
+        "PremierPlus": "Prescribed Medications after Admission; Covered Within Inpatient Limits"
+    },
+    "Emergency drug": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Emergency drug",
+        "Essential": "Covered Within Inpatient Limits ",
+        "Executive": "Covered Within Inpatient Limits ",
+        "Premier": "Covered Within Inpatient Limits ",
+        "PremierPlus": "Covered Within Inpatient Limits "
+    },
+    "Multivitamins ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Multivitamins ",
+        "Essential": "Covered up to GHC 10 Per Prescription and Not To Exceed One ",
+        "Executive": "Covered up to GHC 15 Per Prescription and Not To Exceed One ",
+        "Premier": "Covered up to GHC 25 Per Prescription and Not To Exceed One ",
+        "PremierPlus": "Covered up to GHC 25 Per Prescription and Not To Exceed One "
+    },
+    "Infusion [In-Hospital]": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Infusion [In-Hospital]",
+        "Essential": "Covered Within Inpatient Limits ",
+        "Executive": "Covered Within Inpatient Limits ",
+        "Premier": "Covered Within Inpatient Limits ",
+        "PremierPlus": "Covered Within Inpatient Limits "
+    },
+    "Material for dressing, sutures, bandages ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Material for dressing, sutures, bandages ",
+        "Essential": "Covered Within Inpatient Limits ",
+        "Executive": "Covered Within Inpatient Limits ",
+        "Premier": "Covered Within Inpatient Limits ",
+        "PremierPlus": "Covered Within Inpatient Limits "
+    },
+    "Syringes, Catheters, Giving Sets, Cannula ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Syringes, Catheters, Giving Sets, Cannula ",
+        "Essential": "Covered Within Inpatient Limits ",
+        "Executive": "Covered Within Inpatient Limits ",
+        "Premier": "Covered Within Inpatient Limits ",
+        "PremierPlus": "Covered Within Inpatient Limits "
+    },
+    "External Medical Appliances ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "External Medical Appliances ",
+        "Essential": "Not Covered ",
+        "Executive": "Not Covered ",
+        "Premier": "Not Covered ",
+        "PremierPlus": "Not Covered "
+    },
+    "Blood Transfusion ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Blood Transfusion ",
+        "Essential": "Not Covered ",
+        "Executive": "Not Covered ",
+        "Premier": "Not Covered ",
+        "PremierPlus": "Not Covered "
+    },
+    "Fasting Blood Sugar": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Chemistry",
+        "HealthcarePlan": "Fasting Blood Sugar",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Random Blood Sugar": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Random Blood Sugar",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Electrolyte, Urea and Creatinine": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Electrolyte, Urea and Creatinine",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Prostate Specific Antigen": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Prostate Specific Antigen",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Serum albumin": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Serum albumin",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Serum ALT/SGPT": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Serum ALT/SGPT",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Serum AST/SGOT": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Serum AST/SGOT",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Serum Bilirubin (Direct and Indirect)": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Serum Bilirubin (Direct and Indirect)",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Malaria Parasite": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Microbiology",
+        "HealthcarePlan": "Malaria Parasite",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Widal": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Widal",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Urine MCS": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Urine MCS",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Stool MCS": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Stool MCS",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Hepatitis B Screening ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Serology",
+        "HealthcarePlan": "Hepatitis B Screening ",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "HIV Screening ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "HIV Screening ",
+        "Essential": "Covered by State",
+        "Executive": "Covered by State",
+        "Premier": "Covered by State",
+        "PremierPlus": "Covered by State"
+    },
+    "Genotype ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Genotype ",
+        "Essential": "Not Covered ",
+        "Executive": "Not Covered ",
+        "Premier": "Not Covered ",
+        "PremierPlus": "Not Covered "
+    },
+    "Blood group": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Blood group",
+        "Essential": "Not Covered ",
+        "Executive": "Not Covered ",
+        "Premier": "Not Covered ",
+        "PremierPlus": "Not Covered "
+    },
+    "BCG": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Immunization(0-5 Years) ",
+        "HealthcarePlan": "BCG",
+        "Essential": "Immunization is Not Covered. This is Covered by the State",
+        "Executive": "Immunization is Not Covered. This is Covered by the State",
+        "Premier": "Immunization is Not Covered. This is Covered by the State",
+        "PremierPlus": "Immunization is Not Covered. This is Covered by the State"
+    },
+    "OPV": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "OPV",
+        "Essential": "Immunization is Not Covered. This is Covered by the State",
+        "Executive": "Immunization is Not Covered. This is Covered by the State",
+        "Premier": "Immunization is Not Covered. This is Covered by the State",
+        "PremierPlus": "Immunization is Not Covered. This is Covered by the State"
+    },
+    "PENTAVALENT": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "PENTAVALENT",
+        "Essential": "Immunization is Not Covered. This is Covered by the State",
+        "Executive": "Immunization is Not Covered. This is Covered by the State",
+        "Premier": "Immunization is Not Covered. This is Covered by the State",
+        "PremierPlus": "Immunization is Not Covered. This is Covered by the State"
+    },
+    "HBV": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "HBV",
+        "Essential": "Immunization is Not Covered. This is Covered by the State",
+        "Executive": "Immunization is Not Covered. This is Covered by the State",
+        "Premier": "Immunization is Not Covered. This is Covered by the State",
+        "PremierPlus": "Immunization is Not Covered. This is Covered by the State"
+    },
+    "DPT": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "DPT",
+        "Essential": "Immunization is Not Covered. This is Covered by the State",
+        "Executive": "Immunization is Not Covered. This is Covered by the State",
+        "Premier": "Immunization is Not Covered. This is Covered by the State",
+        "PremierPlus": "Immunization is Not Covered. This is Covered by the State"
+    },
+    "Vitamin A": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Vitamin A",
+        "Essential": "Immunization is Not Covered. This is Covered by the State",
+        "Executive": "Immunization is Not Covered. This is Covered by the State",
+        "Premier": "Immunization is Not Covered. This is Covered by the State",
+        "PremierPlus": "Immunization is Not Covered. This is Covered by the State"
+    },
+    "Measles": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Measles",
+        "Essential": "Immunization is Not Covered. This is Covered by the State",
+        "Executive": "Immunization is Not Covered. This is Covered by the State",
+        "Premier": "Immunization is Not Covered. This is Covered by the State",
+        "PremierPlus": "Immunization is Not Covered. This is Covered by the State"
+    },
+    "Yellow Fever": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Yellow Fever",
+        "Essential": "Immunization is Not Covered. This is Covered by the State",
+        "Executive": "Immunization is Not Covered. This is Covered by the State",
+        "Premier": "Immunization is Not Covered. This is Covered by the State",
+        "PremierPlus": "Immunization is Not Covered. This is Covered by the State"
+    },
+    "Meningitis Vaccine": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Meningitis Vaccine",
+        "Essential": "Immunization is Not Covered. This is Covered by the State",
+        "Executive": "Immunization is Not Covered. This is Covered by the State",
+        "Premier": "Immunization is Not Covered. This is Covered by the State",
+        "PremierPlus": "Immunization is Not Covered. This is Covered by the State"
+    },
+    "Rotavirus Vaccine": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Rotavirus Vaccine",
+        "Essential": "Immunization is Not Covered. This is Covered by the State",
+        "Executive": "Immunization is Not Covered. This is Covered by the State",
+        "Premier": "Immunization is Not Covered. This is Covered by the State",
+        "PremierPlus": "Immunization is Not Covered. This is Covered by the State"
+    },
+    "Pneumococcal Vaccine": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Pneumococcal Vaccine",
+        "Essential": "Immunization is Not Covered. This is Covered by the State",
+        "Executive": "Immunization is Not Covered. This is Covered by the State",
+        "Premier": "Immunization is Not Covered. This is Covered by the State",
+        "PremierPlus": "Immunization is Not Covered. This is Covered by the State"
+    },
+    "Typhoid Vaccine": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Typhoid Vaccine",
+        "Essential": "Immunization is Not Covered. This is Covered by the State",
+        "Executive": "Immunization is Not Covered. This is Covered by the State",
+        "Premier": "Immunization is Not Covered. This is Covered by the State",
+        "PremierPlus": "Immunization is Not Covered. This is Covered by the State"
+    },
+    "Feeding for enrollees on admission": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Admissions And Accommodation",
+        "HealthcarePlan": "Feeding for enrollees on admission",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Nursing Care [In-Hospital]": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Nursing Care [In-Hospital]",
+        "Essential": "Covered Within Inpatient Limits ",
+        "Executive": "Covered Within Inpatient Limits ",
+        "Premier": "Covered Within Inpatient Limits ",
+        "PremierPlus": "Covered Within Inpatient Limits "
+    },
+    "Hospital Ward Care": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Hospital Ward Care",
+        "Essential": "Covered Within Inpatient Limits; General Ward Only ",
+        "Executive": "Covered Within Inpatient Limits; General/Side Ward Only ",
+        "Premier": "Covered Within Inpatient Limits; General/Side/Private Ward",
+        "PremierPlus": "Covered Within Inpatient Limits; General/Side/Private Ward"
+    },
+    "Skilled medical and paramedical services": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Skilled medical and paramedical services",
+        "Essential": "Covered Within Inpatient Limits ",
+        "Executive": "Covered Within Inpatient Limits ",
+        "Premier": "Covered Within Inpatient Limits ",
+        "PremierPlus": "Covered Within Inpatient Limits "
+    },
+    "Supply of prescribed intravenous/intramuscular, oral and topical drugs": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Supply of prescribed intravenous/intramuscular, oral and topical drugs",
+        "Essential": "Covered Within Inpatient Limits ",
+        "Executive": "Covered Within Inpatient Limits ",
+        "Premier": "Covered Within Inpatient Limits ",
+        "PremierPlus": "Covered Within Inpatient Limits "
+    },
+    "Supply of all medical and surgical consumables": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Supply of all medical and surgical consumables",
+        "Essential": "Covered Within Inpatient Limits ",
+        "Executive": "Covered Within Inpatient Limits ",
+        "Premier": "Covered Within Inpatient Limits ",
+        "PremierPlus": "Covered Within Inpatient Limits "
+    },
+    "Accommodation for in-patient care /  Ward ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Accommodation for in-patient care /  Ward ",
+        "Essential": "Covered Within Inpatient Limits; General Ward Only ",
+        "Executive": "Covered Within Inpatient Limits; General/Side Ward Only ",
+        "Premier": "Covered Within Inpatient Limits; General/Side/Private Ward",
+        "PremierPlus": "Covered Within Inpatient Limits; General/Side/Private Ward"
+    },
+    "From Admission benefits grouping (Nationwide)": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "From Admission benefits grouping (Nationwide)",
+        "Essential": "",
+        "Executive": "",
+        "Premier": "",
+        "PremierPlus": ""
+    },
+    "": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "",
+        "Essential": "",
+        "Executive": "",
+        "Premier": "",
+        "PremierPlus": ""
+    },
+    "Wound dressing": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Minor Surgeries ",
+        "HealthcarePlan": "Wound dressing",
+        "Essential": "Covered Up to GHC 2000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Executive": "Covered Up to GHC 3000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Premier": "Covered Up to GHC 4000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "PremierPlus": "Covered Up to GHC 5000 Within Inpatient Limits in a Policy Year Subject to Preapproval"
+    },
+    "Incision & drainage of acute and chronic abscesses": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Incision & drainage of acute and chronic abscesses",
+        "Essential": "Covered Up to GHC 2000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Executive": "Covered Up to GHC 3000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Premier": "Covered Up to GHC 4000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "PremierPlus": "Covered Up to GHC 5000 Within Inpatient Limits in a Policy Year Subject to Preapproval"
+    },
+    "Consumables": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Consumables",
+        "Essential": "Covered Up to GHC 2000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Executive": "Covered Up to GHC 3000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Premier": "Covered Up to GHC 4000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "PremierPlus": "Covered Up to GHC 5000 Within Inpatient Limits in a Policy Year Subject to Preapproval"
+    },
+    "Recovery Ward": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Recovery Ward",
+        "Essential": "Covered Up to GHC 2000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Executive": "Covered Up to GHC 3000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Premier": "Covered Up to GHC 4000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "PremierPlus": "Covered Up to GHC 5000 Within Inpatient Limits in a Policy Year Subject to Preapproval"
+    },
+    "Surgeon Fee": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Surgeon Fee",
+        "Essential": "Covered Up to GHC 2000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Executive": "Covered Up to GHC 3000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Premier": "Covered Up to GHC 4000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "PremierPlus": "Covered Up to GHC 5000 Within Inpatient Limits in a Policy Year Subject to Preapproval"
+    },
+    "Ear piercing": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Ear piercing",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Male circumcision": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Male circumcision",
+        "Essential": "Male Circumcision Within The First 28 Days : Covered Up To GHC100",
+        "Executive": "Male Circumcision Within The First 28 Days : Covered Up To GHC150",
+        "Premier": "Male Circumcision Within The First 28 Days : Covered Up To GHC 200",
+        "PremierPlus": "Male Circumcision Within The First 28 Days : Covered Up To GHC 250"
+    },
+    "Operating Theatre Fees": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Major Surgeries ",
+        "HealthcarePlan": "Operating Theatre Fees",
+        "Essential": "Covered Up to GHC 2000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Executive": "Covered Up to GHC 3000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Premier": "Covered Up to GHC 4000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "PremierPlus": "Covered Up to GHC 5000 Within Inpatient Limits in a Policy Year Subject to Preapproval"
+    },
+    "Surgical Procedure": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Surgical Procedure",
+        "Essential": "Covered Up to GHC 2000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Executive": "Covered Up to GHC 3000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Premier": "Covered Up to GHC 4000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "PremierPlus": "Covered Up to GHC 5000 Within Inpatient Limits in a Policy Year Subject to Preapproval"
+    },
+    "Ward Medicines": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Ward Medicines",
+        "Essential": "Covered Up to GHC 2000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Executive": "Covered Up to GHC 3000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Premier": "Covered Up to GHC 4000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "PremierPlus": "Covered Up to GHC 5000 Within Inpatient Limits in a Policy Year Subject to Preapproval"
+    },
+    "Pathology - Lab. Tests requested by a doctor.": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Pathology - Lab. Tests requested by a doctor.",
+        "Essential": "Covered Up to GHC 2000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Executive": "Covered Up to GHC 3000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Premier": "Covered Up to GHC 4000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "PremierPlus": "Covered Up to GHC 5000 Within Inpatient Limits in a Policy Year Subject to Preapproval"
+    },
+    "Imaging": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Imaging",
+        "Essential": "Covered Up to GHC 2000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Executive": "Covered Up to GHC 3000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "Premier": "Covered Up to GHC 4000 Within Inpatient Limits in a Policy Year Subject to Preapproval",
+        "PremierPlus": "Covered Up to GHC 5000 Within Inpatient Limits in a Policy Year Subject to Preapproval"
+    },
+    "Mental Illnesses ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Psychiatry ",
+        "HealthcarePlan": "Mental Illnesses ",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Hospitalization ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Hospitalization ",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Roadside to hospital ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Ambulance Services ",
+        "HealthcarePlan": "Roadside to hospital ",
+        "Essential": "Covered Within Inpatient Limits ",
+        "Executive": "Covered Within Inpatient Limits ",
+        "Premier": "Covered Within Inpatient Limits ",
+        "PremierPlus": "Covered Within Inpatient Limits "
+    },
+    "Roadside to hospital & Hospital to Hospital ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Roadside to hospital & Hospital to Hospital ",
+        "Essential": "Covered Within Inpatient Limits ",
+        "Executive": "Covered Within Inpatient Limits ",
+        "Premier": "Covered Within Inpatient Limits ",
+        "PremierPlus": "Covered Within Inpatient Limits "
+    },
+    "Antenatal Consult ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "MATERNITY CARE - ANTE/POST NATAL RELATED ISSUES",
+        "HealthcarePlan": "Antenatal Consult ",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Obstetrics Utlrasounds": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Obstetrics Utlrasounds",
+        "Essential": "Covered Up To 2 Per Pregnancy ",
+        "Executive": "Covered Up To 2 Per Pregnancy ",
+        "Premier": "Covered Up To 3 Per Pregnancy ",
+        "PremierPlus": "Covered Up To 3 Per Pregnancy "
+    },
+    "Routine check-up": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Routine check-up",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Postnat consultation ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Postnat consultation ",
+        "Essential": "Covered Within Outpatient Limits ",
+        "Executive": "Covered Within Outpatient Limits ",
+        "Premier": "Covered Within Outpatient Limits ",
+        "PremierPlus": "Covered Within Outpatient Limits "
+    },
+    "Complication Arising from Childbirth ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Complication Arising from Childbirth ",
+        "Essential": "Covered Up To GHC 300 ; Pre-Approval Required ",
+        "Executive": "Covered Up To GHC 500 ; Pre-Approval Required ",
+        "Premier": "Covered Up To GHC 750 ; Pre-Approval Required ",
+        "PremierPlus": "Covered Up To GHC 900 ; Pre-Approval Required "
+    },
+    "Gynecology Surgery  ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Gynecology Surgery  ",
+        "Essential": "Covered Up To GHC 1000  Within Inpatient Limit in a Policy Year Subject to Preapproval ",
+        "Executive": "Covered Up To GHC 1200  Within Inpatient Limit in a Policy Year Subject to Preapproval ",
+        "Premier": "Covered Up To GHC 1500  Within Inpatient Limit in a Policy Year Subject to Preapproval ",
+        "PremierPlus": "Covered Up To GHC 2000  Within Inpatient Limit in a Policy Year Subject to Preapproval "
+    },
+    "New Born Benefit ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "New Born Benefit ",
+        "Essential": "Coverage Period 28 days",
+        "Executive": "Coverage Period 28 days",
+        "Premier": "Coverage Period 28 days",
+        "PremierPlus": "Coverage Period 28 days"
+    },
+    "Routine Pregnancy Medication ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Routine Pregnancy Medication ",
+        "Essential": "Covered Up To GHC 25 Per Month Within Outpatient Limit (Folic Acid, Iron, Multivitamins)",
+        "Executive": "Covered Up To GHC 45 Per Month Within Outpatient Limit (Folic Acid, Iron, Multivitamins)",
+        "Premier": "Covered Up To GHC 65 Per Month Within Outpatient Limit (Folic Acid, Iron, Multivitamins)",
+        "PremierPlus": "Covered Up To GHC 65 Per Month Within Outpatient Limit (Folic Acid, Iron, Multivitamins)"
+    },
+    "Normal Delivery ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "MATERNITY - DELIVERY - ALL FORMS (Normal, Assisted, Caesarean)",
+        "HealthcarePlan": "Normal Delivery ",
+        "Essential": "Covered Up to GHC 1000 Within Inpatient Limits ",
+        "Executive": "Covered Up to GHC 2000 Within Inpatient Limits ",
+        "Premier": "Covered Up to GHC 3000 Within Inpatient Limits ",
+        "PremierPlus": "Covered Up to GHC 4000 Within Inpatient Limits "
+    },
+    "Assisted Delivery ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Assisted Delivery ",
+        "Essential": "Covered Up to GHC 1000 Within Inpatient Limits ",
+        "Executive": "Covered Up to GHC 2000 Within Inpatient Limits ",
+        "Premier": "Covered Up to GHC 3000 Within Inpatient Limits ",
+        "PremierPlus": "Covered Up to GHC 4000 Within Inpatient Limits "
+    },
+    "Caeserian ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Caeserian ",
+        "Essential": "Covered Up to GHC 1000 Within Inpatient Limits ",
+        "Executive": "Covered Up to GHC 2000 Within Inpatient Limits ",
+        "Premier": "Covered Up to GHC 3000 Within Inpatient Limits ",
+        "PremierPlus": "Covered Up to GHC 4000 Within Inpatient Limits "
+    },
+    "Mortal Remains \u00e2\u20ac\u201c Transportation Of Body Or Ashes To The Country Of Nationality Or Country Of Residence": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "MORTUARY",
+        "HealthcarePlan": "Mortal Remains \u00e2\u20ac\u201c Transportation Of Body Or Ashes To The Country Of Nationality Or Country Of Residence",
+        "Essential": "Not Covered ",
+        "Executive": "Not Covered ",
+        "Premier": "Not Covered ",
+        "PremierPlus": "Not Covered "
+    },
+    "WELLNESS BENEFITS": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "WELLNESS BENEFITS",
+        "HealthcarePlan": "WELLNESS BENEFITS",
+        "Essential": "Covered up to GHC 250 ",
+        "Executive": "Covered up to GHC 250 ",
+        "Premier": "Covered up to GHC 250 ",
+        "PremierPlus": "Covered up to GHC 250 "
+    },
+    "MULTIVITAMINS": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "MULTIVITAMINS",
+        "HealthcarePlan": "MULTIVITAMINS",
+        "Essential": "Covered up to GHC 10 Per Prescription and Not To Exceed One ",
+        "Executive": "Covered up to GHC 15 Per Prescription and Not To Exceed One ",
+        "Premier": "Covered up to GHC 25 Per Prescription and Not To Exceed One ",
+        "PremierPlus": "Covered up to GHC 25 Per Prescription and Not To Exceed One "
+    },
+    "Organ Transplant": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "CRITICAL ILLNESS*",
+        "HealthcarePlan": "Organ Transplant",
+        "Essential": "Covered up to a limit",
+        "Executive": "Covered up to a limit",
+        "Premier": "Covered up to a limit",
+        "PremierPlus": "Covered up to a limit"
+    },
+    "Dialysis ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Dialysis ",
+        "Essential": "Covered up to a limit",
+        "Executive": "Covered up to a limit",
+        "Premier": "Covered up to a limit",
+        "PremierPlus": "Covered up to a limit"
+    },
+    "Critical Illness benefit ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Critical Illness benefit ",
+        "Essential": "Covered up to GHC 50000",
+        "Executive": "Covered up to GHC 50000",
+        "Premier": "Covered up to GHC 50000",
+        "PremierPlus": "Covered up to GHC 50000"
+    },
+    "Routine fitness examination": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Routine fitness examination",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Preventive Counselling on referral": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Preventive Counselling on referral",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Pain therapy": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Pain therapy",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Body massage": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Body massage",
+        "Essential": "Covered; Up to 5 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "Executive": "Covered; Up to 6 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "Premier": "Covered; Up to 8 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "PremierPlus": "Covered; Up to 8 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions"
+    },
+    "Gym ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Gym ",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Acupuncture": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Acupuncture",
+        "Essential": "Covered; Up to 5 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "Executive": "Covered; Up to 6 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "Premier": "Covered; Up to 8 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "PremierPlus": "Covered; Up to 8 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions"
+    },
+    "Herbal medicine ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Herbal medicine ",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Physiotherapy": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Physiotherapy",
+        "Essential": "Covered; Up to 5 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "Executive": "Covered; Up to 6 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "Premier": "Covered; Up to 8 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "PremierPlus": "Covered; Up to 8 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions"
+    },
+    "Dietician ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Dietician ",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Speech Therapy ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Speech Therapy ",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Chiropractic": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Chiropractic",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Occupational Therapy ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Occupational Therapy ",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Spa/Body Massage": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Spa/Body Massage",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Rehabilitation (Stepdown facility post-operative) ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Rehabilitation (Stepdown facility post-operative) ",
+        "Essential": "Not Covered ",
+        "Executive": "Not Covered ",
+        "Premier": "Not Covered ",
+        "PremierPlus": "Not Covered "
+    },
+    "Post-Operative Care ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Post-Operative Care ",
+        "Essential": "Not Covered ",
+        "Executive": "Not Covered ",
+        "Premier": "Not Covered ",
+        "PremierPlus": "Not Covered "
+    },
+    "Prothesis": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Prothesis",
+        "HealthcarePlan": "Prothesis",
+        "Essential": "Not Covered",
+        "Executive": "Not Covered",
+        "Premier": "Not Covered",
+        "PremierPlus": "Not Covered"
+    },
+    "Montly Limit (Per Head)": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Overall Limit ",
+        "HealthcarePlan": "Montly Limit (Per Head)",
+        "Essential": "No Monthly Limit",
+        "Executive": "No Monthly Limit",
+        "Premier": "No Monthly Limit",
+        "PremierPlus": "No Monthly Limit"
+    },
+    "Out patient limit Annual ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Out patient limit Annual ",
+        "Essential": "Maximum Outpatient Coverage : GHC 1800       ",
+        "Executive": "Maximum Outpatient Coverage : GHC 3000       ",
+        "Premier": "Maximum Outpatient Coverage : GHC 4000       ",
+        "PremierPlus": "Maximum Outpatient Coverage : GHC 5000       "
+    },
+    "In patient Annual ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "In patient Annual ",
+        "Essential": " Maximum Inpatient Coverage : GHC 10000",
+        "Executive": " Maximum Inpatient Coverage : GHC 15000",
+        "Premier": " Maximum Inpatient Coverage : GHC 20000",
+        "PremierPlus": " Maximum Inpatient Coverage : GHC 25000"
+    },
+    "HOSPITAL ACCOMODATION": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "HOSPITAL ACCOMODATION",
+        "HealthcarePlan": "HOSPITAL ACCOMODATION",
+        "Essential": "",
+        "Executive": "",
+        "Premier": "",
+        "PremierPlus": ""
+    },
+    "Free chats with Doctors and Nurses when in need of care during any medical emergency": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "24 Hour Free Chat Access To Healthcare Professionals (Infotech-driven)",
+        "HealthcarePlan": "Free chats with Doctors and Nurses when in need of care during any medical emergency",
+        "Essential": "Currently Not Available. Available Once a Month on Specific Days",
+        "Executive": "Currently Not Available. Available Once a Month on Specific Days",
+        "Premier": "Currently Not Available. Available Once a Month on Specific Days",
+        "PremierPlus": "Currently Not Available. Available Once a Month on Specific Days"
+    },
+    "Free chats with Doctors and Nurses when in need of any routine medical information": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Free chats with Doctors and Nurses when in need of any routine medical information",
+        "Essential": "Currently Not Available. Available Once a Month on Specific Days",
+        "Executive": "Currently Not Available. Available Once a Month on Specific Days",
+        "Premier": "Currently Not Available. Available Once a Month on Specific Days",
+        "PremierPlus": "Currently Not Available. Available Once a Month on Specific Days"
+    },
+    "A GPS-enabled access to hospital directories when hospital information is needed": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "A GPS-enabled access to hospital directories when hospital information is needed",
+        "Essential": "Available on the NMI App",
+        "Executive": "Available on the NMI App",
+        "Premier": "Available on the NMI App",
+        "PremierPlus": "Available on the NMI App"
+    },
+    "Free Telemedicine app": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Free Telemedicine app",
+        "Essential": "Currently Not Available; Under Construction",
+        "Executive": "Currently Not Available; Under Construction",
+        "Premier": "Currently Not Available; Under Construction",
+        "PremierPlus": "Currently Not Available; Under Construction"
+    },
+    "Physiotherapy Care": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Exclusions ",
+        "HealthcarePlan": "Physiotherapy Care",
+        "Essential": "Covered; Up to 5 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "Executive": "Covered; Up to 6 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "Premier": "Covered; Up to 8 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions",
+        "PremierPlus": "Covered; Up to 8 Sessions Per Policy Year With a Maximum of GHC 60 Per Sessions"
+    },
+    "Eye Care ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Eye Care ",
+        "Essential": "Refer to Optical Benefits Groupings ",
+        "Executive": "Refer to Optical Benefits Groupings ",
+        "Premier": "Refer to Optical Benefits Groupings ",
+        "PremierPlus": "Refer to Optical Benefits Groupings "
+    },
+    "Coverage Region ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Coverage Region ",
+        "Essential": "Ghana",
+        "Executive": "Ghana",
+        "Premier": "Ghana",
+        "PremierPlus": "Ghana"
+    },
+    "Maximum benefits ": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "",
+        "HealthcarePlan": "Maximum benefits ",
+        "Essential": "Maximum Outpatient Coverage : GHC 1800        Maximum Inpatient Coverage : GHC 10000",
+        "Executive": "Maximum Outpatient Coverage : GHC 3000        Maximum Inpatient Coverage : GHC 15000",
+        "Premier": "Maximum Outpatient Coverage : GHC 4000        Maximum Inpatient Coverage : GHC 20000",
+        "PremierPlus": "Maximum Outpatient Coverage : GHC 5000        Maximum Inpatient Coverage : GHC 25000"
+    },
+    "Additional Benefits": {
+        "\u00ef\u00bb\u00bfOutpatient/Inpatient": "Additional Benefits",
+        "HealthcarePlan": "Additional Benefits",
+        "Essential": "Health Promotion ; Free Chats With Doctors And Nurses When In Need Of Care Or  During Any Medical Emergency Or When In Need Of Any Routine Medical ; A GPS-Enabled Access To Hospital Directories When Hospital Information Is Needed Available On The NMI App",
+        "Executive": "Health Promotion ; Free Chats With Doctors And Nurses When In Need Of Care Or  During Any Medical Emergency Or When In Need Of Any Routine Medical ; A GPS-Enabled Access To Hospital Directories When Hospital Information Is Needed Available On The NMI App",
+        "Premier": "Health Promotion ; Free Chats With Doctors And Nurses When In Need Of Care Or  During Any Medical Emergency Or When In Need Of Any Routine Medical ; A GPS-Enabled Access To Hospital Directories When Hospital Information Is Needed Available On The NMI App",
+        "PremierPlus": "Health Promotion ; Free Chats With Doctors And Nurses When In Need Of Care Or  During Any Medical Emergency Or When In Need Of Any Routine Medical ; A GPS-Enabled Access To Hospital Directories When Hospital Information Is Needed Available On The NMI App"
+    }
+}
